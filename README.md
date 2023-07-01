@@ -31,4 +31,4 @@ git clone git@github.com:Ruan-Portella/trybewarts.git && cd trybewarts
 ```
 ## :trophy: Grade/Nota
 
-![My grade of the project - Minha nota no projeto](./nota.png)
+![My grade of the project - Minha nota no projeto](https://i.imgur.com/RnLFHef.png)
