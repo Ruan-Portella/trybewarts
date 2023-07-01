@@ -1,6 +1,13 @@
-# Trybewarts
+# :sparkles: Trybewarts :sparkles:
 
-projeto desenvolvido por [Ruan Portella](https://github.com/Ruan-Portella).
+## Sobre 
+
+Projeto desenvolvido por mim [Ruan Portella](https://www.linkedin.com/in/ruanportella/) ao final do Bloco 6 [Módulo Fundamentos do Desenvolvimento Web](https://github.com/Ruan-Portella/Trybe_Exercicios/tree/main/fundamentos/secao-06-html-e-css-forms-flexbox-e-responsivos) do curso da Trybe. Fui aprovado com 100% dos requisitos obrigatórios e opcionais atingidos.
+
+Tivemos que desenvolver uma página responsiva com um formulário HTML.
+
+[Clique aqui](https://ruanportella.dev/trybewarts/) para conferir a versão final do projeto no seu navegador.
+
 
 ## Ferramentas :wrench:
 
@@ -22,3 +29,6 @@ Para executar, é necessário que você tenha instalado na sua máquina, o **Vs 
 ```sh
 git clone git@github.com:Ruan-Portella/trybewarts.git && cd trybewarts
 ```
+## :trophy: Grade/Nota
+
+![My grade of the project - Minha nota no projeto](./nota.png)
